@@ -1,14 +1,15 @@
 # featured-projects
 A showcase of my software projects with technical breakdowns and visual demonstrations of key features.
 
+&nbsp;
 ## 👋 Hi, I'm Alan Yong
 
 I'm a third-year Computer Science student passionate about building tools, games, and automation scripts that solve real problems. Below is a curated list of my most notable projects.
 
----
-
+&nbsp;
 ## 📌 What I've Built
 
+&nbsp;
 ### 🔹 [Project Name 1](https://github.com/yourusername/project-repo)
 > *A short one-line description of what it does or solves.*
 
@@ -17,6 +18,7 @@ I'm a third-year Computer Science student passionate about building tools, games
 - 📸 ![Screenshot](assets/project1-screenshot.png)
 ---
 
+&nbsp;
 ### 🔹 [Project Name 2](https://github.com/yourusername/another-repo)
 > *e.g., A Unity-based ARPG prototype featuring procedural dungeons and auto-battle mechanics.*
 
@@ -25,6 +27,7 @@ I'm a third-year Computer Science student passionate about building tools, games
 - 🎥 ![Demo Gif](assets/unityproject-demo.gif)
 ---
 
+&nbsp;
 ### 🔹 [Project Name 3](https://github.com/yourusername/ahk-script-repo)
 > *An AutoHotkey script to automate tedious UI interactions in a desktop app or game.*
 
