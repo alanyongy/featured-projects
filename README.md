@@ -27,6 +27,27 @@ I'm a third-year Computer Science student passionate about building tools, games
 - ⚡ **Utility:** Clicks dynamic screen regions based on visual input
 - 🖼️ ![Script Preview](assets/ahk-preview.png)
 
+### 📂 Other Projects
+
+<details>
+  <summary>Click to expand</summary>
+
+  ### 🔹 [Project Alpha](https://github.com/yourusername/project-alpha)
+  A brief description of Project Alpha.
+
+  **Tech:** Python, Flask, SQLite  
+  **Features:** Web scraping, API integration
+
+  ---
+
+  ### 🔹 [Project Beta](https://github.com/yourusername/project-beta)
+  A brief description of Project Beta.
+
+  **Tech:** JavaScript, React  
+  **Features:** Interactive UI, RESTful API
+
+</details>
+
 &nbsp;
 ## 💼 Résumé & Contact
 
