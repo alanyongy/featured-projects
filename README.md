@@ -9,7 +9,6 @@ I'm a third-year Computer Science student passionate about building tools, games
 &nbsp;
 ## 📌 What I've Built
 
-&nbsp;
 ### 🔹 [Project Name 1](https://github.com/yourusername/project-repo)
 > *A short one-line description of what it does or solves.*
 
