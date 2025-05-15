@@ -2,7 +2,6 @@
 
 I'm a third-year Computer Science student passionate about building tools, games, and automation scripts that solve real problems. Below is a curated list of my most notable projects.
 
-&nbsp;
 ## 📌 Featured Projects
 
 ### 🔹 [Project Name 1](https://github.com/yourusername/project-repo)
