@@ -2,7 +2,6 @@
 A showcase of my software projects with technical breakdowns and visual demonstrations of key features.
 
 ## 👋 Hi, I'm Alan Yong
-
 I'm a third-year Computer Science student passionate about building tools, games, and automation scripts that solve real problems. Below is a curated list of my most notable projects.
 ---
 
