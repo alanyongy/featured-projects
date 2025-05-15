@@ -3,7 +3,7 @@
 I'm a third-year Computer Science student passionate about building tools, games, and automation scripts that solve real problems. Below is a curated list of my most notable projects.
 
 &nbsp;
-## 📌 What I've Built
+## 📌 Featured Projects
 
 ### 🔹 [Project Name 1](https://github.com/yourusername/project-repo)
 > *A short one-line description of what it does or solves.*
@@ -28,14 +28,14 @@ I'm a third-year Computer Science student passionate about building tools, games
 - ⚡ **Utility:** Clicks dynamic screen regions based on visual input
 - 🖼️ ![Script Preview](assets/ahk-preview.png)
 
+&nbsp;
 ## 💼 Résumé & Contact
 
 - 📄 [View My Résumé](link-to-resume.pdf)
 - 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 📫 Email: you@example.com
 
----
-
+&nbsp;
 ## 🧠 About Me
 
 I'm particularly interested in systems programming, game development, and automation. I enjoy building tools from scratch and learning new platforms to get things done. My goal is to intern at a company where I can contribute meaningfully to software that reaches users.
