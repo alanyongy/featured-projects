@@ -10,7 +10,8 @@ I'm a third-year Computer Science student passionate about building tools, games
 - 🔧 **Tech:** Java, OOP, JavaFX
 - ✨ **Features:** Data visualization, file parsing, custom UI
 - 📸 ![Screenshot](assets/project1-screenshot.png)
-
+  
+&nbsp;
 ### 🔹 [Project Name 2](https://github.com/yourusername/another-repo)
 > *e.g., A Unity-based ARPG prototype featuring procedural dungeons and auto-battle mechanics.*
 
@@ -18,6 +19,7 @@ I'm a third-year Computer Science student passionate about building tools, games
 - 🎮 **Highlights:** Modular AI system, boss mechanics, skill trees
 - 🎥 ![Demo Gif](assets/unityproject-demo.gif)
   
+&nbsp;
 ### 🔹 [Project Name 3](https://github.com/yourusername/ahk-script-repo)
 > *An AutoHotkey script to automate tedious UI interactions in a desktop app or game.*
 
