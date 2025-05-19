@@ -110,7 +110,7 @@ A technical case study in building a flexible, scalable skill system paired with
 
 - 📄 [View My Résumé](link-to-resume.pdf)
 - 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📫 Email: you@example.com
+- 📫 Email: alanyongy@gmail.com
 
 &nbsp;
 ## 🧠 About Me
