@@ -2,6 +2,8 @@
 
 I'm a third-year Computer Science student passionate about building tools, games, and automation scripts that solve real problems. Below is a curated overview of my most notable projects, with links to full write-ups and source code.
 
+These projects span many years of my journey in software development and primarily reflect my focus on solving real problems. Earlier work prioritized function and rapid iteration, often built for personal use. More recent projects emphasize structure, readability, and maintainability — driven by larger project scopes (such as full game development in Unity) and collaborative or academic settings where clear, accessible code is essential.
+
 &nbsp;
 ## Featured Projects
 ### [TFT Matchup Predictor](https://github.com/yourusername/another-repo)
