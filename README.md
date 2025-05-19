@@ -23,12 +23,19 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 
   
 &nbsp;
-### [Project Name 2](https://github.com/yourusername/another-repo)
-> *e.g., A Unity-based ARPG prototype featuring procedural dungeons and auto-battle mechanics.*
+### 🔹 [AEGIS Multi-Agent Rescue AI](https://github.com/yourusername/aegis-rescue-ai)
+A Python AI for the AEGIS multi-agent simulation (CPSC383 assignment) that coordinates multiple rescue robots under messaging delays to save survivors in minimal turns.
 
-- 🔧 **Tech:** Unity, C#
-- 🎮 **Highlights:** Modular AI system, boss mechanics, skill trees
-- 🎥 ![Demo Gif](assets/unityproject-demo.gif)
+**Tech:** Python, AEGIS API
+
+✨ **Highlights:**  
+- **Simulation-Based Coordination:** Each agent locally simulates *every* agent’s upcoming moves per turn, effectively creating “instant” shared memory and bypassing the 1-turn message delay.  
+- **Distributed Systems Insight:** Overcame communication constraints to keep agents perfectly synchronized without extra messaging.  
+- **Team Leadership:** Championed and implemented the core simulation strategy, guiding the team’s design and integration.
+
+📸 *(Include a GIF of agents coordinating on a sample map and a graph comparing total turns with/without the simulation strategy.)*
+
+💡 Achieved 100% assignment score and significantly reduced rescue turns across varied test worlds.  
 
 [*🔗 Full write-up*](https://github.com/yourusername/link)  
   
@@ -66,8 +73,7 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 > - [YouTube tutorial video](#) explaining usage and showcasing features  
 > - [Reddit post](#) sharing the tool with the community
 > 
-> **💡 Outcome & Impact:**  
-> Used personally and by others to optimize high-level Kha’Zix item builds by quantifying damage tradeoffs. 
+> 💡 Used personally and by others to optimize high-level Kha’Zix item builds by quantifying damage tradeoffs. 
 >
 > [*🔗 Full write-up*](https://github.com/yourusername/link)  
 >
@@ -83,8 +89,7 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 > 
 > 📸 *Include a GIF or screenshot of console output for one bracket and the corresponding performance graph.*
 >
-> **💡 Outcome & Impact:**  
-> Confirmed community-recommended speed strategy with independent simulation.
+> 💡 Confirmed community-recommended speed strategy with independent simulation.
 >
 > [*🔗 Full write-up*](https://github.com/yourusername/link)  
 > </details>
