@@ -114,5 +114,5 @@ A technical case study in building a flexible, scalable skill system paired with
 
 &nbsp;
 ## Final Thoughts
-These projects span many years of my journey in software development and primarily reflect my focus on solving real problems. Earlier work prioritized function and rapid iteration, often built for immediate personal use. More recent projects emphasize structure, readability, and maintainability — driven by larger project scopes (such as full game development in Unity) and collaborative or academic settings where clear, accessible code is essential.
+These projects span many years of my journey in software development and primarily reflect my focus on solving real problems. Earlier work prioritized function and rapid iteration, often built for immediate personal use. More recent projects emphasize structure, readability, and maintainability — driven by larger project scopes (such as full game development in Unity) and collaborative or academic settings such qualities are essential.
 
