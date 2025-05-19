@@ -64,19 +64,19 @@ A technical case study in building a flexible, scalable skill system paired with
 > <details>
 >   <summary>Click to expand</summary>
 >
-> ### [(Google Sheets) LoL – Kha’Zix Item DPS Calculator](https://github.com/yourusername/r-simulator)
+> ### LoL Kha’Zix Item DPS Calculator](https://github.com/yourusername/r-simulator)
 > 
 > Interactive spreadsheet tool for comparing item builds and DPS outcomes on the champion Kha’Zix in League Of Legends, factoring in in-game variables like level, skill combo, armor, and existing items. 
 > 
 > **🔧 Tech:**  
-> Google Sheets (no scripts)
+> Google Sheets (Scriptless)
 > 
 > **✨ Notable Features:**  
 > - Dynamic checkbox-and dropdown-based UI for skill selection, level, item choices, and enemy stats  
 > - Calculates marginal benefit of new items based on current build (e.g. "How much does this item improve my damage if I already own X and Y?")  
-> - Graph plots relative damage increases over time (enemy level on X-axis)  
+> - Graph compares relative damage increases over time between multiple selected items 
 > - Fully formula-driven: uses hundreds of excel-formulas (ie. `IF`, `VLOOKUP`), and reference tabs to model game logic  
-> - No scripting or macros used — all logic embedded in spreadsheet cells
+> - No scripts used — all logic embedded in spreadsheet cells with google sheets excel-style formulas
 > 
 > --Insert Visuals--  
 > - GIFs and screenshots available (tool in use + formula breakdowns)  
