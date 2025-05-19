@@ -24,7 +24,7 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 
   
 &nbsp;
-### 🔹 [AEGIS Multi-Agent Rescue AI](https://github.com/yourusername/aegis-rescue-ai)
+### [AEGIS Multi-Agent Rescue AI](https://github.com/yourusername/aegis-rescue-ai)
 A Python AI for the AEGIS multi-agent simulation (CPSC383 assignment) that coordinates multiple rescue robots under messaging delays to save survivors in minimal turns.
 
 **Tech:** Python, AEGIS API
@@ -41,12 +41,19 @@ A Python AI for the AEGIS multi-agent simulation (CPSC383 assignment) that coord
 [*🔗 Full write-up*](https://github.com/yourusername/link)  
   
 &nbsp;
-### [Project Name 3](https://github.com/yourusername/ahk-script-repo)
-> *An AutoHotkey script to automate tedious UI interactions in a desktop app or game.*
+### [Unity Scalable Skill System & RTS Unit Control ](https://github.com/yourusername/a) 
+A technical case study in building a flexible, scalable skill system paired with polished real-time unit selection and AI skill queuing for a multi-character Unity game (work in progress).
 
-- 🔧 **Tech:** AutoHotkey, ImageSearch
-- ⚡ **Utility:** Clicks dynamic screen regions based on visual input
-- 🖼️ ![Script Preview](assets/ahk-preview.png)
+**Tech:** C#, Unity  
+
+✨ **Features:**  
+- **Modular Skill Architecture:** Developed a clean class hierarchy enabling fast creation and modification of hundreds of unique skills via extension and inspector configuration.  
+- **Real-time Multi-unit Control:** Implemented intuitive multi-unit selection and movement with click, drag, and continuous target updates for up to four units simultaneously. Polished UX including deselection and fallback commands.  
+- **AI Skill Queueing:** Created a priority-based skill queue system allowing AI and player-controlled units to cast skills autonomously with dynamic condition checks and smooth transition between a wide variety of skills with different skill-casting conditions.
+
+📸 *(Include a GIF of unit selection/movement in action, plus skill casting examples with projectiles and area effects.)*
+
+💡 Demonstrates strong software engineering and gameplay programming skills, particularly in scalable system design and input handling. 
 
 [*🔗 Full write-up*](https://github.com/yourusername/link)  
 
