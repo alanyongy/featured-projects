@@ -4,7 +4,7 @@ I'm a third-year Computer Science student passionate about building tools, games
 
 &nbsp;
 ## Featured Projects
-### [TFT Matchup Predictor](https://github.com/yourusername/another-repo)
+### [(2021) TFT Matchup Predictor](https://github.com/yourusername/another-repo)
 Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*, using only screen data and a custom-built OCR system.
 
 🔧 **Tech:** AutoHotkey (AHK)  
@@ -24,7 +24,7 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 
   
 &nbsp;
-### [AEGIS Multi-Agent Rescue AI](https://github.com/yourusername/aegis-rescue-ai)
+### [(2025) AEGIS Multi-Agent Rescue AI](https://github.com/yourusername/aegis-rescue-ai)
 A Python AI for the AEGIS multi-agent simulation (CPSC383 assignment) that coordinates multiple rescue robots under messaging delays to save survivors in minimal turns.
 
 **Tech:** Python, AEGIS API
@@ -42,7 +42,7 @@ A Python AI for the AEGIS multi-agent simulation (CPSC383 assignment) that coord
 [*🔗 Full write-up*](https://github.com/yourusername/link)  
   
 &nbsp;
-### [Unity Scalable Skill System & Multi-Unit Control ](https://github.com/yourusername/a) 
+### [(2025) Unity Scalable Skill System & Multi-Unit Control ](https://github.com/yourusername/a) 
 A technical case study in building a flexible, scalable skill system paired with polished real-time unit selection and AI skill queuing for a multi-character Unity game (work in progress).
 
 **Tech:** C#, Unity  
@@ -64,7 +64,7 @@ A technical case study in building a flexible, scalable skill system paired with
 > <details>
 >   <summary>Click to expand</summary>
 >
-> ### LoL Kha’Zix Item DPS Calculator](https://github.com/yourusername/r-simulator)
+> ###(2020) LoL Kha’Zix Item DPS Calculator](https://github.com/yourusername/r-simulator)
 > 
 > Interactive spreadsheet tool for comparing item builds and DPS outcomes on the champion Kha’Zix in League Of Legends, factoring in in-game variables like level, skill combo, armor, and existing items. 
 > 
@@ -88,7 +88,7 @@ A technical case study in building a flexible, scalable skill system paired with
 > [*🔗 Full write-up*](https://github.com/yourusername/link)  
 >
 > &nbsp;
-> ### [HSR Jingliu/Bronya Turn-Order Simulator](https://github.com/yourusername/hsr-simulator)
+> ### [(2023) HSR Jingliu/Bronya Turn-Order Simulator](https://github.com/yourusername/hsr-simulator)
 > A console-based Java tool that models turn order and damage trade-offs for two characters in Honkai Star Rail, then brute-forces every speed-vs-damage combination to find optimal setups.
 > 
 > **🔧 Tech:** Java  
