@@ -42,7 +42,7 @@ A Python AI for the AEGIS multi-agent simulation (CPSC383 assignment) that coord
 [*🔗 Full write-up*](https://github.com/yourusername/link)  
   
 &nbsp;
-### [(2025) Unity Scalable Skill System & Multi-Unit Control ](https://github.com/yourusername/a) 
+### [(2025-Present) Unity Scalable Skill System & Multi-Unit Control ](https://github.com/yourusername/a) 
 A technical case study in building a flexible, scalable skill system paired with polished real-time unit selection and AI skill queuing for a multi-character Unity game (work in progress).
 
 **Tech:** C#, Unity  
@@ -64,7 +64,7 @@ A technical case study in building a flexible, scalable skill system paired with
 > <details>
 >   <summary>Click to expand</summary>
 >
-> ###(2020) LoL Kha’Zix Item DPS Calculator](https://github.com/yourusername/r-simulator)
+> ###[(2020) LoL Kha’Zix Item DPS Calculator](https://github.com/yourusername/r-simulator)
 > 
 > Interactive spreadsheet tool for comparing item builds and DPS outcomes on the champion Kha’Zix in League Of Legends, factoring in in-game variables like level, skill combo, armor, and existing items. 
 > 
