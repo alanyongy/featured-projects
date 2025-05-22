@@ -64,7 +64,7 @@ A technical case study in building a flexible, scalable skill system paired with
 > <details>
 >   <summary>Click to expand</summary>
 >
-> ###[(2020) LoL Kha’Zix Item DPS Calculator](https://github.com/yourusername/r-simulator)
+> ### [(2020) LoL Kha’Zix Item DPS Calculator](https://github.com/yourusername/r-simulator)
 > 
 > Interactive spreadsheet tool for comparing item builds and DPS outcomes on the champion Kha’Zix in League Of Legends, factoring in in-game variables like level, skill combo, armor, and existing items. 
 > 
