@@ -19,7 +19,8 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 
 💡 *Used in competitive play before Riot Games implemented this feature natively — matched their logic exactly.*
 
-[*🔗 Full write-up*](https://github.com/yourusername/link)  
+### [*🔗 Full write-up*](https://github.com/yourusername/link)  
+
 ![Test Image](Screenshot_1.png)
 
   
@@ -39,7 +40,7 @@ A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescu
 
 💡 Achieved 100% assignment score and significantly reduced rescue turns across varied test worlds.  
 
-[*🔗 Full write-up*](https://github.com/yourusername/link)  
+### [*🔗 Full write-up*](https://github.com/yourusername/link)  
   
 &nbsp;
 ### [(2025-Present) Unity Scalable Skill System & Multi-Unit Control ](https://github.com/yourusername/a) 
@@ -57,7 +58,7 @@ A technical case study in building a flexible, scalable skill system paired with
 
 💡 Demonstrates strong software engineering and gameplay programming skills, particularly in scalable system design and input handling. 
 
-[*🔗 Full write-up*](https://github.com/yourusername/link)  
+### [*🔗 Full write-up*](https://github.com/yourusername/link)  
 
 &nbsp;
 ### Other Projects
