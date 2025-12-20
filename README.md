@@ -37,7 +37,7 @@ A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescu
 
 --Insert Visuals--
 
-💡 Achieved 100% assignment score and significantly reduced rescue turns across varied test worlds.  
+💡 Achieved significantly higher scores (fewer moves used) than peers across varied test worlds, resulting in 100% assignment score.
 
 ### [*🔗 Full write-up*](https://github.com/yourusername/link)  
   
