@@ -108,13 +108,17 @@ This repository focuses on these systems, which were originally built as part of
 > </details>
 
 &nbsp;
+
+## Final Thoughts
+These projects span many years of my journey in software development and primarily reflect my focus on solving real problems. Earlier work prioritized function and rapid iteration, often built for immediate personal use. More recent projects emphasize structure, readability, and maintainability — driven by larger project scopes (eg. full game development in Unity) and collaborative or academic settings where such qualities are essential.
+&nbsp;
+
 ## Résumé & Contact
 
 - 📄 [View My Résumé](CS-Resume.pdf)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alan-yong-abb154395/)
 - 📫 Email: alanyongy@gmail.com
 
-&nbsp;
-## Final Thoughts
-These projects span many years of my journey in software development and primarily reflect my focus on solving real problems. Earlier work prioritized function and rapid iteration, often built for immediate personal use. More recent projects emphasize structure, readability, and maintainability — driven by larger project scopes (eg. full game development in Unity) and collaborative or academic settings where such qualities are essential.
+
+
 
