@@ -43,20 +43,26 @@ A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescu
 ### [*🔗 Full write-up*](https://github.com/yourusername/link)  
   
 &nbsp;
-### [(2025-Present) Unity Scalable Skill System & Multi-Unit Control ](https://github.com/yourusername/a) 
-A technical case study in building a flexible, scalable skill system paired with polished real-time unit selection and AI skill queuing for a multi-character Unity game (work in progress).
+### [(2025-Present) Unity Multi-Unit Selection & Formation System](https://github.com/yourusername/a)  
+> ⚠️ **Work in Progress:** Full technical writeup and examples will be added soon.
+
+A technical case study showcasing real-time multi-unit selection and movement in Unity, alongside a formation system for coordinating unit positioning.  
+This repository focuses on these systems, which were originally built as part of a larger game but are presented here independently.
 
 **Tech:** C#, Unity  
 
 ✨ **Notable Features:**  
-- **Modular Skill Architecture:** Developed a clean class hierarchy enabling fast creation and modification of hundreds of unique skills via extension and inspector configuration.  
-- **Real-time Multi-unit Control:** Implemented intuitive multi-unit selection and movement with click, drag, and continuous target updates for up to four units simultaneously. Polished UX including deselection and fallback commands.  
-- **AI Skill Queueing:** Created a priority-based skill queue system allowing AI and player-controlled units to cast skills autonomously with dynamic condition checks and smooth transition between a wide variety of skills with different skill-casting conditions.
+- **Real-time Multi-unit Control:** Implemented intuitive multi-unit selection and movement with click, drag, and continuous target updates for up to four units simultaneously. Includes smooth input handling and deselection mechanics.  
+- **Formation System:** Dynamic formation logic to coordinate units based on player-selected targets and desired positioning, demonstrating scalable group movement in an RTS-style setup.
 
---Insert Visuals--
-*(Include a GIF of unit selection/movement in action, plus skill casting examples with projectiles and area effects.)*
+--Insert Visuals--  
+*(Include a GIF of unit selection/movement in action, plus formation positioning examples.)*
 
-💡 Demonstrates strong software engineering and gameplay programming skills, particularly in scalable system design and input handling. 
+💡 Demonstrates core gameplay programming and software engineering skills in input handling, group movement, and system architecture, as well as identifying challenges in multi-unit control and designing and implementing effective, scalable solutions for coordinated movement. 
+
+### [*🔗 Full write-up*](https://github.com/yourusername/link)  
+> 📚 *Technical writeup under construction — will detail formation algorithms and multi-unit input handling.*
+
 
 ### [*🔗 Full write-up*](https://github.com/yourusername/link)  
 
