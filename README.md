@@ -36,7 +36,6 @@ A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescu
 - **Team Leadership:** Championed and implemented the core simulation strategy, guiding the team’s design and integration.
 
 --Insert Visuals--
-*(Include a GIF of agents coordinating on a sample map and a graph comparing total turns with/without the simulation strategy.)*
 
 💡 Achieved 100% assignment score and significantly reduced rescue turns across varied test worlds.  
 
@@ -56,15 +55,11 @@ This repository focuses on these systems, which were originally built as part of
 - **Formation System:** Dynamic formation logic to coordinate units based on player-selected targets and desired positioning, demonstrating scalable group movement in an RTS-style setup.
 
 --Insert Visuals--  
-*(Include a GIF of unit selection/movement in action, plus formation positioning examples.)*
 
 💡 Demonstrates core gameplay programming and software engineering skills in input handling, group movement, and system architecture, as well as identifying challenges in multi-unit control and designing and implementing effective, scalable solutions for coordinated movement. 
 
-### [*🔗 Full write-up*](https://github.com/yourusername/link)  
+### [*🔗 Full write-up*](https://github.com/alanyongy/game-systems-showcase)
 > 📚 *Technical writeup under construction — will detail formation algorithms and multi-unit input handling.*
-
-
-### [*🔗 Full write-up*](https://github.com/yourusername/link)  
 
 &nbsp;
 ### Other Projects
