@@ -110,8 +110,8 @@ This repository focuses on these systems, which were originally built as part of
 &nbsp;
 ## Résumé & Contact
 
-- 📄 [View My Résumé](link-to-resume.pdf)
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📄 [View My Résumé](CS-Resume.pdf)
+- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alan-yong-abb154395/)
 - 📫 Email: alanyongy@gmail.com
 
 &nbsp;
