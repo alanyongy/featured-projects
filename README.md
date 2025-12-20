@@ -5,6 +5,8 @@ I'm a third-year Computer Science student passionate about building tools, games
 &nbsp;
 ## Featured Projects
 ### [(2021) TFT Matchup Predictor](https://github.com/yourusername/another-repo)
+![Test Image](Screenshot_1.png)
+
 Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*, using only screen data and a custom-built OCR system.
 
 🔧 **Tech:** AutoHotkey (AHK)  
@@ -21,11 +23,13 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 
 ### [*🔗 Full write-up*](https://github.com/yourusername/link)  
 
-![Test Image](Screenshot_1.png)
+
 
   
 &nbsp;
 ### [(2025) AEGIS Multi-Agent Rescue AI](https://github.com/yourusername/aegis-rescue-ai)
+![Test Image](Screenshot_1.png)
+
 A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescue robots under messaging delays to save survivors in minimal turns.
 
 **Tech:** Python, AEGIS API
@@ -43,6 +47,8 @@ A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescu
   
 &nbsp;
 ### [(2025-Present) Unity Multi-Unit Selection & Formation System](https://github.com/alanyongy/game-systems-showcase)
+![Test Image](Screenshot_1.png)
+
 > ⚠️ **Work in Progress:** Full technical writeup and examples will be added soon.
 
 A technical case study showcasing real-time multi-unit selection and movement in Unity, alongside a formation system for coordinating unit positioning.  
