@@ -111,7 +111,7 @@ This repository focuses on these systems, which were originally built as part of
 ## Résumé & Contact
 
 - 📄 [View My Résumé](CS-Resume.pdf)
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alan-yong-abb154395/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alan-yong-abb154395/)
 - 📫 Email: alanyongy@gmail.com
 
 &nbsp;
