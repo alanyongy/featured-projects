@@ -27,6 +27,7 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 &nbsp;
 ### [(2025) AEGIS Multi-Agent Rescue AI](https://github.com/alanyongy/aegis-multiagent-rescue-ai)
 ![Test Image](Assets/AEGIS-Preview-2.gif)
+
 A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescue robots under messaging delays to save survivors in minimal turns.
 
 **Tech:** Python, AEGIS API
