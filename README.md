@@ -2,7 +2,6 @@
 
 I'm a third-year Computer Science student passionate about building tools, games, and automation scripts that solve real problems. Below is a curated overview of my most notable projects, with links to full write-ups and source code.
 
-&nbsp;
 ## Featured Projects
 ### [(2021) TFT Matchup Predictor](https://github.com/alanyongy/tft-matchup-predictor)
 ![Test Image](Assets/TFT-Preview.png)
