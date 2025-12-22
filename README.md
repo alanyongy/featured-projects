@@ -5,7 +5,7 @@ I'm a third-year Computer Science student passionate about building tools, games
 &nbsp;
 ## Featured Projects
 ### [(2021) TFT Matchup Predictor](https://github.com/alanyongy/tft-matchup-predictor)
-![Test Image](Screenshot_1.png)
+![Test Image](Assets/TFT-Preview.png)
 
 Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*, using only screen data and a custom-built OCR system.
 
@@ -28,6 +28,7 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 ### [(2025) AEGIS Multi-Agent Rescue AI](https://github.com/alanyongy/aegis-multiagent-rescue-ai)
 
 A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescue robots under messaging delays to save survivors in minimal turns.
+
 ![Preview GIF](Assets/AEGIS-Preview-2.gif)
 
 
