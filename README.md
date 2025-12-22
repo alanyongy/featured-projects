@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Alan Yong
 
 I'm a third-year Computer Science student passionate about building tools, games, and automation scripts that solve real problems. Below is a curated overview of my most notable projects, with links to full write-ups and source code.
+
 &nbsp;
 ## Featured Projects
 ### [(2021) TFT Matchup Predictor](https://github.com/alanyongy/tft-matchup-predictor)
@@ -22,8 +23,9 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 
 ### [*🔗 Full write-up*](https://github.com/alanyongy/tft-matchup-predictor)
 
-  
+
 &nbsp;
+---
 ### [(2025) AEGIS Multi-Agent Rescue AI](https://github.com/alanyongy/aegis-multiagent-rescue-ai)
 
 ![Preview GIF](Assets/AEGIS-Preview-2.gif)
@@ -42,8 +44,10 @@ A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescu
 💡 Achieved significantly higher scores (fewer moves used) than peers across varied test worlds, resulting in 100% assignment score.
 
 ### [*🔗 Full write-up*](https://github.com/alanyongy/aegis-multiagent-rescue-ai) 
-  
+
+
 &nbsp;
+---
 ### [(2025-Present) Unity Multi-Unit Selection & Formation System](https://github.com/alanyongy/game-systems-showcase)
 ![Test Image](Screenshot_1.png)
 
