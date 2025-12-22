@@ -66,6 +66,7 @@ This repository focuses on these systems, which were originally built as part of
 > 📚 *Technical writeup under construction — will detail formation algorithms and multi-unit input handling.*
 
 &nbsp;
+---
 ### Other Projects
 > <details>
 >   <summary>Click to expand</summary>
@@ -113,7 +114,7 @@ This repository focuses on these systems, which were originally built as part of
 
 &nbsp;
 ## Final Thoughts
-These projects span many years of my journey in software development and primarily reflect my focus on solving real problems. Earlier work prioritized function and rapid iteration, often built for immediate personal use. More recent projects emphasize structure, readability, and maintainability — driven by larger project scopes (eg. full game development in Unity) and collaborative or academic settings where such qualities are essential.
+These projects span years of my journey in software development and primarily reflect my focus on solving real problems. Earlier work prioritized function and rapid iteration, often built for immediate personal use. More recent projects emphasize structure, readability, and maintainability — driven by larger project scopes (eg. full game development in Unity) and collaborative or academic settings where such qualities are essential.
 &nbsp;
 
 
