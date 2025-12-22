@@ -21,7 +21,7 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 
 💡 *Used in competitive play before Riot Games implemented this feature natively — matched their logic exactly.*
 
-### [*🔗 Full write-up*](https://github.com/yourusername/link)  
+### [*🔗 Full write-up*](https://github.com/alanyongy/tft-matchup-predictor)
 
 
 
