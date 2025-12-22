@@ -27,7 +27,7 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 
   
 &nbsp;
-### [(2025) AEGIS Multi-Agent Rescue AI](https://github.com/yourusername/aegis-rescue-ai)
+### [(2025) AEGIS Multi-Agent Rescue AI](https://github.com/alanyongy/aegis-multiagent-rescue-ai)
 ![Test Image](Screenshot_1.png)
 
 A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescue robots under messaging delays to save survivors in minimal turns.
@@ -43,7 +43,7 @@ A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescu
 
 💡 Achieved significantly higher scores (fewer moves used) than peers across varied test worlds, resulting in 100% assignment score.
 
-### [*🔗 Full write-up*](https://github.com/yourusername/link)  
+### [*🔗 Full write-up*](https://github.com/alanyongy/aegis-multiagent-rescue-ai) 
   
 &nbsp;
 ### [(2025-Present) Unity Multi-Unit Selection & Formation System](https://github.com/alanyongy/game-systems-showcase)
