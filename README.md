@@ -5,7 +5,7 @@ I'm a third-year Computer Science student passionate about building tools, games
 &nbsp;
 ## Featured Projects
 ### [(2021) TFT Matchup Predictor](https://github.com/alanyongy/tft-matchup-predictor)
-![Test Image](Assets/TFT-Preview.png)
+![Preview Image](Assets/TFT-Preview.png)
 
 Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*, using only screen data and a custom-built OCR system.
 
@@ -16,8 +16,6 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 - Real-time overlay showing which opponents can appear next, adapting to matchmaking rules and dynamic lobbies  
 - Screen region calibration using static UI anchors for reliable detection  
 - Functional in high-ranked competitive matches, where accuracy and timing were critical  
-
---Insert Visuals--
 
 💡 *Used in competitive play before Riot Games implemented this feature natively — matched their logic exactly.*
 
@@ -38,8 +36,6 @@ A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescu
 - **Simulation-Based Coordination:** Each agent locally simulates *every* agent’s upcoming moves per turn, effectively creating “instant” shared memory and bypassing the 1-turn message delay.  
 - **Distributed Systems Insight:** Overcame communication constraints to keep agents perfectly synchronized without extra messaging.  
 - **Team Leadership:** Championed and implemented the core simulation strategy, guiding the team’s design and integration.
-
---Insert Visuals--
 
 💡 Achieved significantly higher scores (fewer moves used) than peers across varied test worlds, resulting in 100% assignment score.
 
