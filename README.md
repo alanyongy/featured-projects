@@ -4,7 +4,7 @@ I'm a third-year Computer Science student passionate about building tools, games
 
 &nbsp;
 ## Featured Projects
-### [(2021) TFT Matchup Predictor](https://github.com/yourusername/another-repo)
+### [(2021) TFT Matchup Predictor](https://github.com/alanyongy/tft-matchup-predictor)
 ![Test Image](Screenshot_1.png)
 
 Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*, using only screen data and a custom-built OCR system.
