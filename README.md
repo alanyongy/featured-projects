@@ -121,7 +121,7 @@ These projects span years of my journey in software development and primarily re
 ## Résumé & Contact
 
 - 📄 [View My Résumé](CS-Resume.pdf)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alan-yong-abb154395/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alanyongy)
 - 📫 Email: alanyongy@gmail.com
 
 
