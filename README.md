@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Alan Yong
 
-I'm a third-year Computer Science student passionate about building tools, games, and automation scripts that solve real problems. Below is a curated overview of my most notable projects, with links to full write-ups and source code.
+I build simulation, automation, and real-time systems, from OCR pipelines to multi-agent AI and game-scale control systems.
 
 &nbsp;
 ## Featured Projects
