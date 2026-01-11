@@ -2,7 +2,6 @@
 
 I build simulation, automation, and real-time systems, from OCR pipelines to multi-agent AI and game-scale control systems.
 
-&nbsp;
 ## Featured Projects
 ### [(2021) TFT Matchup Predictor](https://github.com/alanyongy/tft-matchup-predictor)
 ![Preview Image](Assets/TFT-Preview.png)
