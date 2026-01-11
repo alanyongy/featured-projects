@@ -32,9 +32,9 @@ A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescu
 **Tech:** Python, AEGIS API
 
 ✨ **Notable Features:**  
-- **Simulation-Based Coordination:** Each agent locally simulates *every* agent’s upcoming moves per turn, effectively creating “instant” shared memory and bypassing the 1-turn message delay.  
-- **Distributed Systems Insight:** Overcame communication constraints to keep agents perfectly synchronized without extra messaging.  
-- **Team Leadership:** Championed and implemented the core simulation strategy, guiding the team’s design and integration.
+- Multi-agent simulation to predict team-wide outcomes each turn
+- Local world modeling to bypass message delay constraints
+- Coordinated planning across agents without centralized control
 
 💡 Achieved significantly higher scores (fewer moves used) than peers across varied test worlds, resulting in 100% assignment score.
 
