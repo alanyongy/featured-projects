@@ -46,8 +46,6 @@ A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescu
 ### [(2025-Present) Unity Multi-Unit Selection & Formation System](https://github.com/alanyongy/game-systems-showcase)
 ![Preview GIF](Assets/unity-formation.gif)
 
-> ⚠️ **Work in Progress:** Full technical writeup and examples will be added soon.
-
 A technical case study showcasing real-time multi-unit selection and movement in Unity, alongside a formation system for coordinating unit positioning.  
 This repository focuses on these systems, which were originally built as part of a larger game but are presented here independently.
 
