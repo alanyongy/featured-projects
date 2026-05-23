@@ -1,11 +1,33 @@
 ## 👋 Hi, I'm Alan Yong
 
-I build software systems involving static analysis, distributed coordination, automation, and real-time control — from compiler-style tooling and full-stack applications to OCR pipelines and multi-agent AI.
+I build software systems involving  full-stack applications, static analysis, distributed coordination, automation, and real-time control — from compiler-style tooling and full-stack applications to OCR pipelines and multi-agent AI.
 
 ## Featured Projects
-### [(2025) Java Change Impact Analyzer](https://github.com/alanyongy/java-change-impact)
+### [(2026) Full Stack Student Enrollment System](https://github.com/alanyongy/student-enrollment-system)
 
-![Preview Image](Assets/java-impact-preview.png)
+![Preview Image](Assets/course-registration-combined-preview.png)
+
+A full-stack course registration platform supporting student enrollment workflows and administrative management of courses, departments, and student records.
+
+**🔧 Tech:** Java, Spring Boot, MySQL, React  
+
+✨ **Notable Features:**  
+- Developed backend APIs and relational database workflows for course enrollment and academic record management  
+- Supports role-based workflows for both students and administrators  
+- Implements enrollment, drop, and course-offering management with database-backed validation logic  
+- Designed relational schemas for departments, courses, students, admissions, and enrollments  
+- Integrated frontend and backend systems into a unified web application with persistent database storage  
+
+💡 Demonstrates practical software engineering skills in full-stack development, database design, backend architecture, and multi-user workflow systems.
+
+### [*🔗 Full write-up*](https://github.com/alanyongy/student-enrollment-system)
+
+&nbsp;
+---
+
+### [(2026) Java Change Impact Analyzer](https://github.com/alanyongy/java-change-impact)
+
+![Preview Image](Assets/cia-overview.png)
 
 A static analysis tool that parses Java source code and predicts which lines and methods may be affected by a change to a specified line of code.
 
@@ -25,27 +47,7 @@ A static analysis tool that parses Java source code and predicts which lines and
 
 &nbsp;
 ---
-### [(2025) Full Stack Student Enrollment System](https://github.com/alanyongy/student-enrollment-system)
 
-![Preview Image](Assets/enrollment-preview.png)
-
-A full-stack course registration platform supporting student enrollment workflows and administrative management of courses, departments, and student records.
-
-**🔧 Tech:** Java, Spring Boot, MySQL, React  
-
-✨ **Notable Features:**  
-- Developed backend APIs and relational database workflows for course enrollment and academic record management  
-- Supports role-based workflows for both students and administrators  
-- Implements enrollment, drop, and course-offering management with database-backed validation logic  
-- Designed relational schemas for departments, courses, students, admissions, and enrollments  
-- Integrated frontend and backend systems into a unified web application with persistent database storage  
-
-💡 Demonstrates practical software engineering skills in full-stack development, database design, backend architecture, and multi-user workflow systems.
-
-### [*🔗 Full write-up*](https://github.com/alanyongy/student-enrollment-system)
-
-&nbsp;
----
 ### [(2025) AEGIS Multi-Agent Rescue AI](https://github.com/alanyongy/aegis-multiagent-rescue-ai)
 
 ![Preview GIF](Assets/AEGIS-Preview-2.gif)
