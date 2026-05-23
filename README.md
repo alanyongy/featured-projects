@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Alan Yong
 
-I build simulation, automation, and real-time systems, from OCR pipelines to multi-agent AI and game-scale control systems.
+I build software systems involving static analysis, distributed coordination, automation, and real-time control — from compiler-style tooling and full-stack applications to OCR pipelines and multi-agent AI.
 
 ## Featured Projects
 ### [(2025) Java Change Impact Analyzer](https://github.com/alanyongy/java-change-impact)
