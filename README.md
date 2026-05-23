@@ -84,30 +84,29 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 💡 *Used in competitive play before Riot Games implemented this feature natively — matched their logic exactly.*
 
 ### [*🔗 Full write-up*](https://github.com/alanyongy/tft-matchup-predictor)
+&nbsp;
+---
+### [(2024) Unity Multi-Unit Selection & Formation System](https://github.com/alanyongy/game-systems-showcase)
+![Preview GIF](Assets/unity-formation.gif)
+
+A technical case study showcasing real-time multi-unit selection and movement in Unity, alongside a formation system for coordinating unit positioning.  
+This repository focuses on these systems, which were originally built as part of a larger game but are presented here independently.
+
+**Tech:** C#, Unity  
+
+✨ **Notable Features:**  
+- **Real-time Multi-unit Control:** Implemented intuitive multi-unit selection and movement with click, drag, and continuous target updates for up to four units simultaneously. Includes smooth input handling and deselection mechanics.  
+- **Formation System:** Dynamic formation logic to coordinate units based on player-selected targets and desired positioning, demonstrating scalable group movement in an RTS-style setup.
+
+💡 Demonstrates core gameplay programming and software engineering skills in input handling, group movement, and system architecture, as well as identifying challenges in multi-unit control and designing and implementing effective, scalable solutions for coordinated movement. 
+
+### [*🔗 Full write-up*](https://github.com/alanyongy/game-systems-showcase)
+> 📚 *Technical writeup under construction — will detail formation algorithms and multi-unit input handling.*
+
 
 ### Other Projects
 > <details>
 >   <summary>Click to expand</summary>
->
-> ### [(2025-Present) Unity Multi-Unit Selection & Formation System](https://github.com/alanyongy/game-systems-showcase)
-> ![Preview GIF](Assets/unity-formation.gif)
-> 
-> A technical case study showcasing real-time multi-unit selection and movement in Unity, alongside a formation system for coordinating unit positioning.  
-> This repository focuses on these systems, which were originally built as part of a larger game but are presented here independently.
-> 
-> **Tech:** C#, Unity  
-> 
-> ✨ **Notable Features:**  
-> - **Real-time Multi-unit Control:** Implemented intuitive multi-unit selection and movement with click, drag, and continuous target updates for up to four units simultaneously. Includes smooth input handling and deselection mechanics.  
-> - **Formation System:** Dynamic formation logic to coordinate units based on player-selected targets and desired positioning, demonstrating scalable group movement in an RTS-style setup.
-> 
-> 💡 Demonstrates core gameplay programming and software engineering skills in input handling, group movement, and system architecture, as well as identifying challenges in multi-unit control and designing and implementing effective, scalable solutions for coordinated movement. 
-> 
-> ### [*🔗 Full write-up*](https://github.com/alanyongy/game-systems-showcase)
-> > 📚 *Technical writeup under construction — will detail formation algorithms and multi-unit input handling.*
-> 
-> &nbsp;
-> ---
 > ### [(2020) LoL Kha’Zix Item DPS Calculator](https://github.com/yourusername/r-simulator)
 > 
 > Interactive spreadsheet tool for comparing item builds and DPS outcomes on the champion Kha’Zix in League Of Legends, factoring in in-game variables like level, skill combo, armor, and existing items. 
