@@ -25,7 +25,7 @@ A static analysis tool that parses Java source code and predicts which lines and
 
 &nbsp;
 ---
-### [(2025) Student Enrollment System](https://github.com/alanyongy/student-enrollment-system)
+### [(2025) Full Stack Student Enrollment System](https://github.com/alanyongy/student-enrollment-system)
 
 ![Preview Image](Assets/enrollment-preview.png)
 
