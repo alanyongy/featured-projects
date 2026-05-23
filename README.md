@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Alan Yong
 
-I build software systems involving  full-stack applications, static analysis, distributed coordination, automation, and real-time control — from compiler-style tooling and full-stack applications to OCR pipelines and multi-agent AI.
+I build software systems involving  full-stack applications, static analysis, distributed coordination, automation, and real-time control, from compiler-style tooling and full-stack applications to OCR pipelines and multi-agent AI algorithms.
 
 ## Featured Projects
 ### [(2026) Full Stack Student Enrollment System](https://github.com/alanyongy/student-enrollment-system)
