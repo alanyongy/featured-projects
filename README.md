@@ -67,25 +67,6 @@ A Python AI for the AEGIS multi-agent simulation that coordinates multiple rescu
 
 &nbsp;
 ---
-
-### [(2021) TFT Matchup Predictor](https://github.com/alanyongy/tft-matchup-predictor)
-![Preview Image](Assets/TFT-Preview.png)
-
-Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*, using only screen data and a custom-built OCR system.
-
-🔧 **Tech:** AutoHotkey (AHK)  
-
-✨ **Notable Features:**  
-- Custom OCR using AHK’s `ImageSearch` to identify player names across two UI elements  
-- Real-time overlay showing which opponents can appear next, adapting to matchmaking rules and dynamic lobbies  
-- Screen region calibration using static UI anchors for reliable detection  
-- Functional in high-ranked competitive matches, where accuracy and timing were critical  
-
-💡 *Used in competitive play before Riot Games implemented this feature natively — matched their logic exactly.*
-
-### [*🔗 Full write-up*](https://github.com/alanyongy/tft-matchup-predictor)
-&nbsp;
----
 ### [(2024) Unity Multi-Unit Selection & Formation System](https://github.com/alanyongy/game-systems-showcase)
 ![Preview GIF](Assets/unity-formation.gif)
 
@@ -103,6 +84,25 @@ This repository focuses on these systems, which were originally built as part of
 ### [*🔗 Full write-up*](https://github.com/alanyongy/game-systems-showcase)
 > 📚 *Technical writeup under construction — will detail formation algorithms and multi-unit input handling.*
 
+&nbsp;
+---
+
+### [(2021) TFT Matchup Predictor](https://github.com/alanyongy/tft-matchup-predictor)
+![Preview Image](Assets/TFT-Preview.png)
+
+Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*, using only screen data and a custom-built OCR system.
+
+🔧 **Tech:** AutoHotkey (AHK)  
+
+✨ **Notable Features:**  
+- Custom OCR using AHK’s `ImageSearch` to identify player names across two UI elements  
+- Real-time overlay showing which opponents can appear next, adapting to matchmaking rules and dynamic lobbies  
+- Screen region calibration using static UI anchors for reliable detection  
+- Functional in high-ranked competitive matches, where accuracy and timing were critical  
+
+💡 *Used in competitive play before Riot Games implemented this feature natively — matched their logic exactly.*
+
+### [*🔗 Full write-up*](https://github.com/alanyongy/tft-matchup-predictor)
 
 ### Other Projects
 > <details>
