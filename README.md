@@ -101,8 +101,6 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 > - **Real-time Multi-unit Control:** Implemented intuitive multi-unit selection and movement with click, drag, and continuous target updates for up to four units simultaneously. Includes smooth input handling and deselection mechanics.  
 > - **Formation System:** Dynamic formation logic to coordinate units based on player-selected targets and desired positioning, demonstrating scalable group movement in an RTS-style setup.
 > 
-> --Insert Visuals--  
-> 
 > 💡 Demonstrates core gameplay programming and software engineering skills in input handling, group movement, and system architecture, as well as identifying challenges in multi-unit control and designing and implementing effective, scalable solutions for coordinated movement. 
 > 
 > ### [*🔗 Full write-up*](https://github.com/alanyongy/game-systems-showcase)
@@ -124,7 +122,6 @@ Real-time overlay tool for predicting upcoming opponents in *Teamfight Tactics*,
 > - Fully formula-driven: uses hundreds of excel-formulas (ie. `IF`, `VLOOKUP`), and reference tabs to model game logic  
 > - No scripts used — all logic embedded in spreadsheet cells with google sheets excel-style formulas
 > 
-> --Insert Visuals--  
 > - GIFs and screenshots available (tool in use + formula breakdowns)  
 > - [YouTube tutorial video](#) explaining usage and showcasing features  
 > - [Reddit post](#) sharing the tool with the community
