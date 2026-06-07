@@ -25,6 +25,29 @@ A full-stack course registration platform supporting student enrollment workflow
 &nbsp;
 ---
 
+### [(2026) Safe LLM File Organizer](https://github.com/alanyongy/safe-llm-file-organizer)
+
+![Preview Image](Assets/safe-llm-file-organizer-preview.png)
+
+A safety-first AI-powered file organization system that converts natural language goals into structured filesystem operations using an LLM planning layer with deterministic validation and execution guards.
+
+**🔧 Tech:** Python, OpenAI API, JSON
+
+✨ **Notable Features:**
+- Natural language file organization through an LLM planning layer that converts user goals into structured execution plans
+- Designed a constrained AI agent architecture separating planning, validation, and execution into independent components
+- Implemented deterministic validation guardrails including action whitelisting, path safety checks, root-directory sandboxing, and plan size limits
+- Built a restricted execution engine exposing only approved filesystem operations, preventing arbitrary code execution
+- Human-in-the-loop workflow requiring plan review and approval before any filesystem modifications occur
+- Collision-safe file movement with automatic renaming and folder creation to prevent accidental data loss
+
+💡 Demonstrates practical AI agent engineering through secure tool use, defense-in-depth validation, sandboxed execution, and the separation of probabilistic AI planning from trusted system actions.
+
+### [*🔗 Full write-up*](https://github.com/alanyongy/safe-llm-file-organizer)
+
+&nbsp;
+---
+
 ### [(2026) Java Change Impact Analyzer](https://github.com/alanyongy/java-change-impact)
 
 ![Preview Image](Assets/cia-overview.png)
@@ -43,7 +66,6 @@ A static analysis tool that parses Java source code and predicts which lines and
 💡 Demonstrates compiler-adjacent tooling, static analysis, and software architecture skills through custom parsing and dependency analysis systems.
 
 ### [*🔗 Full write-up*](https://github.com/alanyongy/java-change-impact)
-
 
 &nbsp;
 ---
